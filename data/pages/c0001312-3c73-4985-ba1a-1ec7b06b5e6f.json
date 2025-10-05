@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-10-05T20:48:18.241Z",
+  "created_by": "markpbaggett",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1",
+  "updated_at": "2025-10-05T20:48:18.241Z",
+  "updated_by": "markpbaggett",
+  "parent": "f1f16296-dda5-453f-ba4e-4dc91b58e6c3",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "86b97bbf-34dc-4322-b2a0-8602762ac9c7"
+  }
+}

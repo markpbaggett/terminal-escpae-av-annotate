@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "b160bafc-6f70-48a4-9804-719d6c329596": {
+      "label": "AV File 1",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is a news segment from Bill Daniel's documentary."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-05T20:48:18.027Z",
+  "created_by": "markpbaggett",
+  "item_type": "Audio",
+  "label": "Imported Event 1",
+  "updated_at": "2025-10-05T20:48:18.027Z",
+  "updated_by": "markpbaggett",
+  "rights_statement": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+}
