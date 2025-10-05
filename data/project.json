@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "markpbaggett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2692416?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "markpbaggett",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-05T20:41:34.742Z",
-    "updated_at": "2025-10-05T20:41:34.742Z"
-  }
+    "updated_at": "2025-10-05T20:41:34.742Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "f1f16296-dda5-453f-ba4e-4dc91b58e6c3": {
+      "content": [],
+      "created_at": "2025-10-05T20:41:34.759Z",
+      "created_by": "markpbaggett",
+      "title": "Terminal Escape Test",
+      "updated_at": "2025-10-05T20:41:34.759Z",
+      "updated_by": "markpbaggett",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "f1f16296-dda5-453f-ba4e-4dc91b58e6c3"
+  ]
 }
