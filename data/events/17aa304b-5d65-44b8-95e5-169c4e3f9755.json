@@ -1,0 +1,25 @@
+{
+  "audiovisual_files": {
+    "fe1d9b96-6060-41a4-8897-2db9ac2170fa": {
+      "label": "AV File 6",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "We're going down, til we're underground"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-06T15:19:55.745Z",
+  "created_by": "markpbaggett",
+  "item_type": "Audio",
+  "label": "Imported Event 6",
+  "updated_at": "2025-10-06T15:19:55.745Z",
+  "updated_by": "markpbaggett"
+}
